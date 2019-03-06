@@ -21,6 +21,9 @@ https://uakci.pl/toadua/
 http://toaq.org/kata/
 
 
+# Individuals
+
+
 ## Lynn's links
 
 ### The vietoaq quizzer
