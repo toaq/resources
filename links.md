@@ -44,8 +44,11 @@ https://github.com/toaq/miu
 
 ## Uakci's links
 
-### Tiny Toaq serial predicate engine
+### nuigui (Smallcorn) -- Tiny Toaq serial predicate engine
 https://github.com/ciuak/nuigui
+
+### A serial-predicate-engine that expands the serial into its full form
+https://github.com/ciuak/serial-predicate-engine
 
 ### mi Nuogai help
 https://uakci.pl/wiki/nuogai
