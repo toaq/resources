@@ -21,7 +21,7 @@ https://uakci.pl/toadua/
 http://toaq.org/kata/
 
 
-## lynn's links
+## Lynn's links
 
 ### The vietoaq quizzer
 http://foldr.moe/vietoaq/
@@ -50,6 +50,11 @@ https://uakci.pl/wiki/nuogai
 ### vieotoaq guide
 https://uakci.pl/wiki/vietoaq
 
+## Xeizzeth's links
+
+### A Memrise course
+https://www.memrise.com/course/2207610/toaq-1000-phrases-wip/
+
 
 ## unknown
 
@@ -58,6 +63,12 @@ http://toaq.herokuapp.com/
 
 ### a toaq interactive keyboard
 http://toaq.org/letters/
+
+# Frequency lists
+### by Uakci, 2018-09-13
+http://toaq.org/chatlogs/frequencylist.txt
+### by Lynn, 2019-03-06
+https://gist.github.com/lynn/8016843ba21352bb48f488d39d9659e9
 
 
 ## TODO
