@@ -74,6 +74,11 @@ https://uakci.pl/wiki/experimental
 ### A Memrise course
 https://www.memrise.com/course/2207610/toaq-1000-phrases-wip/
 
+## Xylochoron's links
+
+### Toanglish translation of the story "the white snake" in the reference
+https://start.hubzilla.org/articles/xylochoron/5d477632a8ad1a56
+
 
 ## unknown
 
