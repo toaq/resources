@@ -94,6 +94,11 @@ https://uakci.pl/wiki/vietoaq
 ### a list of experimental features
 https://uakci.pl/wiki/experimental
 
+### the community dictionary
+https://uakci.pl/toadua/
+
+### a toaq only dictionary
+https://uakci.pl/toajoe/#
 
 ## Xeizzeth's links
 
