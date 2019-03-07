@@ -70,6 +70,10 @@ http://toaq.herokuapp.com/
 ### a toaq interactive keyboard
 http://toaq.org/letters/
 
+### a blog, with one entry
+https://toaqlanguage.wordpress.com/
+
+
 # Frequency lists
 ### by Uakci, 2018-09-13
 http://toaq.org/chatlogs/frequencylist.txt
