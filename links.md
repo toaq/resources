@@ -8,6 +8,9 @@ http://www.toaq.org/
 ### the official dictionary
 http://www.toaq.org/dictionary/
 
+### the official grammar
+http://toaq.org/parser/toaqlanguage.js.peg
+
 
 ## community
 
@@ -52,6 +55,9 @@ https://docs.google.com/document/d/1OZFWqeKOsLNayuwQXfVDPpIvtulL1gcPAibZwBH0Yg0/
 ### The Blog
 https://toaqlanguage.wordpress.com/
 
+### A first version of Toaq's grammar, written in prolog, 2013
+http://selpahi.de/toaq.txt
+
 
 ## Ilmen's links
 
@@ -75,6 +81,9 @@ http://toaq.herokuapp.com/
 
 ### and its repo
 https://github.com/toaq/miu
+
+### and its grammar
+https://github.com/eaburns/toaq/blob/master/ast/toaq.peg
 
 ### Uncategorized thoughts
 #### http://itsapad.appspot.com/1jscbyjvpxc
