@@ -117,6 +117,11 @@ http://foldr.moe/vietoaq/
 ## Uakci's vietoaq guide
 https://uakci.pl/wiki/vietoaq
 
+# Sooo, anyone can tell me what this is?
+
+## Corrections
+https://docs.google.com/document/d/1Vmd-rXQ_7kUHRsH9r6saphUJsCTTlOomW6IO9IGwCpg/edit
+
 
 
 ## TODO
