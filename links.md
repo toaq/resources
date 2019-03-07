@@ -35,6 +35,11 @@ https://www.memrise.com/course/1974691/toaq-simple-predicates-2018-06-03/
 
 # Individuals
 
+## Ilmen's links
+
+### Proverbs from around the world translated into Toaq
+https://pastebin.com/96SRNyH1
+
 
 ## Lynn's links
 
