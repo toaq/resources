@@ -23,6 +23,9 @@ http://toaq.org/kata/
 ### list of sentences, with audio
 https://docs.google.com/spreadsheets/d/1bCQoaX02ZyaElHiiMcKHFemO4eV1MEYmYloYZgOAhac/edit#gid=1395088029
 
+### the subreddit
+https://old.reddit.com/r/Toaq/
+
 
 # Individuals
 
