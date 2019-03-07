@@ -29,6 +29,9 @@ https://old.reddit.com/r/Toaq/
 ### Toaq word proposal list
 https://docs.google.com/spreadsheets/d/1P9p1D38p364JSiNqLMGwY3zDRPQ_f6Yob_OL-uku28Q/edit#gid=0
 
+### Memrise course of simple predicates 2018-06-03
+https://www.memrise.com/course/1974691/toaq-simple-predicates-2018-06-03/
+
 
 # Individuals
 
