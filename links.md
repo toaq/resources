@@ -122,6 +122,9 @@ https://uakci.pl/wiki/vietoaq
 ## Corrections
 https://docs.google.com/document/d/1Vmd-rXQ_7kUHRsH9r6saphUJsCTTlOomW6IO9IGwCpg/edit
 
+## toaq errata
+https://etherpad.net/p/toaq-errata-1
+
 
 
 ## TODO
