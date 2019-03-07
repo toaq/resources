@@ -68,12 +68,12 @@ http://foldr.moe/vietoaq/
 https://gist.github.com/lynn/8016843ba21352bb48f488d39d9659e9
 
 
-## Loq's/eaburns links
+## Loq's links
 
-### a collection of tools for Toaq
-https://github.com/eaburns/toaq
+### a toaq parser and logic translator
+http://toaq.herokuapp.com/
 
-### a toaq to logic translator, with other tools
+### and its repo
 https://github.com/toaq/miu
 
 
@@ -107,9 +107,6 @@ https://start.hubzilla.org/articles/xylochoron/5d477632a8ad1a56
 
 
 ## unknown
-
-### a toaq parser
-http://toaq.herokuapp.com/
 
 ### a toaq interactive keyboard
 http://toaq.org/letters/
