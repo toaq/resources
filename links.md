@@ -26,6 +26,9 @@ https://docs.google.com/spreadsheets/d/1bCQoaX02ZyaElHiiMcKHFemO4eV1MEYmYloYZgOA
 ### the subreddit
 https://old.reddit.com/r/Toaq/
 
+### Toaq word proposal list
+https://docs.google.com/spreadsheets/d/1P9p1D38p364JSiNqLMGwY3zDRPQ_f6Yob_OL-uku28Q/edit#gid=0
+
 
 # Individuals
 
@@ -105,7 +108,6 @@ http://foldr.moe/vietoaq/
 
 ## Uakci's vietoaq guide
 https://uakci.pl/wiki/vietoaq
-
 
 
 
