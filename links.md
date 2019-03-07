@@ -77,16 +77,16 @@ http://toaq.herokuapp.com/
 https://github.com/toaq/miu
 
 ### Uncategorized thoughts
-http://itsapad.appspot.com/1jscbyjvpxc
-http://itsapad.appspot.com/1k29vpzm680
-http://itsapad.appspot.com/1kfcw4pyps0
-http://itsapad.appspot.com/1ka8kmo7ta8
+#### http://itsapad.appspot.com/1jscbyjvpxc
+#### http://itsapad.appspot.com/1k29vpzm680
+#### http://itsapad.appspot.com/1kfcw4pyps0
+#### http://itsapad.appspot.com/1ka8kmo7ta8
 
 ### translated proverbs from ilmen's challenge
-look not at where you have fallen, but what you slipped on
-the whitest writing is better than the strongest memory.
-because we were looking at the snake, we missed the scorpion
-eating causes hunger
+#### look not at where you have fallen, but what you slipped on
+#### the whitest writing is better than the strongest memory.
+#### because we were looking at the snake, we missed the scorpion
+#### eating causes hunger
 
 
 ## Uakci's links
