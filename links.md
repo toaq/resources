@@ -58,6 +58,9 @@ https://toaqlanguage.wordpress.com/
 ### A first version of Toaq's grammar, written in prolog, 2013
 http://selpahi.de/toaq.txt
 
+### A first draft on Toaq
+http://selpahi.de/Toaq-Dzu.txt
+
 
 ## Ilmen's links
 
