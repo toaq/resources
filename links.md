@@ -53,7 +53,7 @@ https://github.com/ciuak/serial-predicate-engine
 ### mi Nuogai help
 https://uakci.pl/wiki/nuogai
 
-### vieotoaq guide
+### vietoaq guide
 https://uakci.pl/wiki/vietoaq
 
 ## Xeizzeth's links
@@ -75,6 +75,16 @@ http://toaq.org/letters/
 http://toaq.org/chatlogs/frequencylist.txt
 ### by Lynn, 2019-03-06
 https://gist.github.com/lynn/8016843ba21352bb48f488d39d9659e9
+
+# VieToaq
+
+## Lynn's vietoaq quizzer
+http://foldr.moe/vietoaq/
+
+## Uakci's vietoaq guide
+https://uakci.pl/wiki/vietoaq
+
+
 
 
 ## TODO
