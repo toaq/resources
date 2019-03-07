@@ -61,6 +61,12 @@ http://selpahi.de/toaq.txt
 ### A first draft on Toaq
 http://selpahi.de/Toaq-Dzu.txt
 
+### tones from Olde-Toaq
+http://selpahi.de/tonediagram.JPG
+
+### recording from Olde-Toaq
+http://selpahi.de/toaqdzu1.mp3
+
 
 ## Ilmen's links
 
