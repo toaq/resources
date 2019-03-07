@@ -73,6 +73,9 @@ http://toaq.org/letters/
 ### a blog, with one entry
 https://toaqlanguage.wordpress.com/
 
+### a memrise deck, learn how to use the tones
+https://www.memrise.com/course/1573407/toaq-language/
+
 
 # Frequency lists
 ### by Uakci, 2018-09-13
