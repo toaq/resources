@@ -18,6 +18,11 @@ contentive:
 predicate:
     Verbs, the words that carry the meanings.
 
+grammar:
+    These are the rules that the parsers use to parse the sentences.
+    Different parsers use different grammars, and that give different parsings.
+
+
 # Notation systems
 
 ## Signature Notation
