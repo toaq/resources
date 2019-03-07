@@ -76,12 +76,17 @@ https://toaqlanguage.wordpress.com/
 ### a memrise deck, learn how to use the tones
 https://www.memrise.com/course/1573407/toaq-language/
 
+### a frequency list, 2019-02-16
+https://gist.githubusercontent.com/ciuak/d233979c99f83017158e8b97fbbda8f9/raw/f09ec94dc01f3a9cd017f744639f874494d7e451/freqlist-2019-02.txt
+
 
 # Frequency lists
 ### by Uakci, 2018-09-13
 http://toaq.org/chatlogs/frequencylist.txt
 ### by Lynn, 2019-03-06
 https://gist.github.com/lynn/8016843ba21352bb48f488d39d9659e9
+### by unknown, 2019-02-16
+https://gist.githubusercontent.com/ciuak/d233979c99f83017158e8b97fbbda8f9/raw/f09ec94dc01f3a9cd017f744639f874494d7e451/freqlist-2019-02.txt
 
 # VieToaq
 
