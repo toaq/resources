@@ -169,6 +169,14 @@ http://foldr.moe/vietoaq/
 ## Uakci's vietoaq guide
 https://uakci.pl/wiki/vietoaq
 
+# Things we like
+
+## Ithkuil, a very dense language XD
+http://www.ithkuil.net/
+
+## Pizza
+http://www.mamawritesreviews.com/files/images/original/3668.gif
+
 # Sooo, anyone can tell me what this is?
 
 ## Corrections
