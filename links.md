@@ -43,6 +43,9 @@ https://www.youtube.com/watch?v=9V6vMfR3rrk
 ### their youtube channel, with some fables recorded
 https://www.youtube.com/channel/UCWxCrnMhv-7s1Mp8tWc_K2A
 
+### Sa Búai Hủohūa
+https://docs.google.com/document/d/1OZFWqeKOsLNayuwQXfVDPpIvtulL1gcPAibZwBH0Yg0/edit
+
 ## Ilmen's links
 
 ### Proverbs from around the world translated into Toaq
