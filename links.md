@@ -62,6 +62,10 @@ https://uakci.pl/wiki/nuogai
 ### vietoaq guide
 https://uakci.pl/wiki/vietoaq
 
+### a list of experimental features
+https://uakci.pl/wiki/experimental
+
+
 ## Xeizzeth's links
 
 ### A Memrise course
