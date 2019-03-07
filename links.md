@@ -147,6 +147,10 @@ https://docs.google.com/document/d/1Vmd-rXQ_7kUHRsH9r6saphUJsCTTlOomW6IO9IGwCpg/
 ## toaq errata
 https://etherpad.net/p/toaq-errata-1
 
+## mietoa, an apparently old dictionary?
+https://melopee.github.io/mietoa/
+https://melopee.github.io/mietoa/dic.html
+
 
 
 ## TODO
