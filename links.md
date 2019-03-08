@@ -1,3 +1,7 @@
+<!--
+This is a comment!
+-->
+
 # Links
 
 ## Official
@@ -142,14 +146,16 @@ http://itsapad.appspot.com/1ka8kmo7ta8
 
 # Frequency lists
 
-[by uakci, 2018-09-13](http://toaq.org/chatlogs/frequencylist.txt)
-[by uakci, 2019-02-16](https://gist.githubusercontent.com/ciuak/d233979c99f83017158e8b97fbbda8f9/raw/f09ec94dc01f3a9cd017f744639f874494d7e451/freqlist-2019-02.txt)
-[by Lynn, 2019-03-06, based on uakci's](https://gist.github.com/lynn/8016843ba21352bb48f488d39d9659e9)
+<!---
+there are double spaces at the end of the line.
+that way there are line breaks.
+Yeah, its a really weird way to mark a line break
+-->
+[by uakci, 2018-09-13](http://toaq.org/chatlogs/frequencylist.txt)  
+[by uakci, 2019-02-16](https://gist.githubusercontent.com/ciuak/d233979c99f83017158e8b97fbbda8f9/raw/f09ec94dc01f3a9cd017f744639f874494d7e451/freqlist-2019-02.txt)  
+[by Lynn, 2019-03-06, based on uakci's](https://gist.github.com/lynn/8016843ba21352bb48f488d39d9659e9)  
 
 # Things we like
-<!---
-commented?
--->
 
 [Ithkuil](http://www.ithkuil.net/)  
 [pizza](http://www.mamawritesreviews.com/files/images/original/3668.gif)
