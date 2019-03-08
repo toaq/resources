@@ -73,6 +73,12 @@ Two names with the same word, but different tones are technically different name
 
 ## On frames and signatures 
 
+<!---
+Invisible break :/
+-->
+Talk about this file  
+[frames-list.txt](https://github.com/acotis/serial-predicate-engine/blob/master/code/dict/frame-list.txt)
+
 ### 2019-03-08, #general
 mı Hỏaqgīo
 > As for frames-list.txt...
