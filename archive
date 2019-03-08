@@ -1,10 +1,19 @@
 Syntax:
 # + \n marks the beginning of a section
+
 # marks the chat where the text came from.
 It is followed by the first chat of the concept, without space.
+
 Each break in the chat is marked by the origin chat
+
 [...] means that a piece of the message was deleted.
 Because it had nothing to do with the subject.
+
+Every section has a tag, that takes the first letter of each word, and makes it
+into an acronym.
+if two sections have the same acronym... expand the second word
+like: ONWFT -> ONamesWFT
+
 
 TODO BFS make this paragraph understandable, its so confusing XD
 
