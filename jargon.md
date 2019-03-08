@@ -10,6 +10,9 @@ DWIM:
 contentive:
     That carries content – predicate, i.e., root word or compound word.
 
+JEO-frame Equivalence:
+    See [archive](https://github.com/toaq/resources/blob/master/archive.md), On frames and signatures.
+
 predicate:
     Verb – a word that relates a number of arguments.
 
@@ -26,5 +29,5 @@ signature notation:
     1 = a property (with exactly one ja in it)
     2 = a relation (with two ja)
 
-    For eaxmple, we can describe a predicate like dua as (c 0) –
+    For example, we can describe a predicate like dua as (c 0) –
     the first place is concrete, the second place is a predication.
