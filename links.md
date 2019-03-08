@@ -147,9 +147,9 @@ http://itsapad.appspot.com/1ka8kmo7ta8
 [by Lynn, 2019-03-06, based on uakci's](https://gist.github.com/lynn/8016843ba21352bb48f488d39d9659e9)
 
 # Things we like
+<!---
+commented?
+-->
 
-## Ithkuil, a very dense language XD
-http://www.ithkuil.net/
-
-## Pizza
-http://www.mamawritesreviews.com/files/images/original/3668.gif
+[Ithkuil](http://www.ithkuil.net/)  
+[pizza](http://www.mamawritesreviews.com/files/images/original/3668.gif)
