@@ -1,20 +1,16 @@
+## 1. Argument order
+The dictionary and the official documentation presents content word definitions like this:
 
-#1 argument order
-The dictionary and the official documentation shows the definitions like this:
-    mai
-        __ loves __
+> *maı*: \_\_\_ loves \_\_\_
 
-You would think that the usage of the word would be like this:
-    Subject mai Object,
-    jip mai sub
+You would think that the usage of such a word would be:
 
-But it is actually like this:
-    mai Subject Object,
-    mai jip sub
+> Subject maı Object
+> jí maı súq
 
-Verb Subject Object is the standard in the chat.
+Instead, it's like this:
 
-P.D
-if you don't find jip in the dictionary, its because its in vietoaq.
-look it up in the links page.
+> maı Subject Object
+> mảı jí súq
 
+Verb Subject Object is the standard; if you really need the subject to appear before the predicate, use *pa*: *jí pa mảı súq*.
