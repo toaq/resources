@@ -38,6 +38,23 @@ https://www.memrise.com/course/1974691/toaq-simple-predicates-2018-06-03/
 
 # Individuals
 
+## banzbapren's links (who are you? : )
+
+### words I don't get
+https://docs.google.com/document/d/1NNHLIZ_vg9YpMCBN4hVgkDrYSDeq9AKePc4aWI-TuPg/edit
+
+### another list of links XD
+https://docs.google.com/document/d/1g3AhZm7V-JPS_717QD8nQhLx_cVqGRJhxpyv28N_AMU/edit
+
+
+## Cobbleblox' links (who are you? : )
+
+### Serial predicates
+https://docs.google.com/document/d/1xgt7dPGWSBHx7LTQzl_JqMrti-hgmk1zVA_gCY9TPfM/edit
+
+### toakue (what is this?)
+https://docs.google.com/document/d/1mIxenRl8z7VLHcfbFfWRSCD9eC_t30N1kXJZc-ZYZJI/edit
+
 ## Fagri's links
 
 ### a true story on youtube
@@ -76,6 +93,9 @@ http://selpahi.de/toaqdzu1.mp3
 ### Proverbs from around the world translated into Toaq
 https://pastebin.com/96SRNyH1
 
+### toaq mathematics
+https://docs.google.com/spreadsheets/d/14kofIHlThlkReQYLNZy3pJ4OwZJq1o2eqX-pQYvwd00/edit#gid=0
+
 
 ## Lynn's links
 
@@ -84,6 +104,9 @@ http://foldr.moe/vietoaq/
 
 ### a frequency list of toaq words, collected on March 6 2019
 https://gist.github.com/lynn/8016843ba21352bb48f488d39d9659e9
+
+### Toaq selmaho: a matrix of word types, the cross product of the consonants with the vowels... This is weird, and interesting.
+https://docs.google.com/spreadsheets/d/1d1XKUy3ClUyfO2iZTWJpWZeJJbPNCM9yM_iaelMC1iA/edit#gid=0
 
 
 ## Loq's links
@@ -132,6 +155,11 @@ https://uakci.pl/toadua/
 
 ### a toaq only dictionary
 https://uakci.pl/toajoe/#
+
+## Seaqtaq's links
+
+### the catalogue, partially devoured to make this one XD
+https://drive.google.com/drive/u/0/folders/1gkjH19CrtoXIqRFh9ye3n1akMu2ojbMu
 
 ## Xeizzeth's links
 
