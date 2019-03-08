@@ -110,11 +110,7 @@ http://itsapad.appspot.com/1ka8kmo7ta8
 
 [Nuigui (Smallcorn) – Tiny Toaq serial predicate engine](https://github.com/ciuak/nuigui)
 
-[Help for mı Nủogāı](https://uakci.pl/wiki/nuogai)
-
-[Vietoaq guide](https://uakci.pl/wiki/vietoaq)
-
-[A list of experimental features](https://uakci.pl/wiki/experimental)
+[Uakci's wiki. With mı Nủogāı, vietoaq, experimental features, and more](https://uakci.pl/wiki/)
 
 [The community dictionary](https://uakci.pl/toadua/)
 
