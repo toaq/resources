@@ -156,10 +156,13 @@ https://uakci.pl/toadua/
 ### a toaq only dictionary
 https://uakci.pl/toajoe/#
 
-## Seaqtaq's links
+## Seaqtaq's links... are you la banzbapren?
 
 ### the catalogue, partially devoured to make this one XD
 https://drive.google.com/drive/u/0/folders/1gkjH19CrtoXIqRFh9ye3n1akMu2ojbMu
+
+### a collection of short stories, with such classics as the grasshopper and the octopus.
+https://drive.google.com/drive/u/0/folders/1mlRRVxx7onT6elHQDPHwHLH_yUDrF2qy
 
 ## Xeizzeth's links
 
