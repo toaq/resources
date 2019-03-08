@@ -224,7 +224,7 @@ https://etherpad.net/p/toaq-errata-1
 https://melopee.github.io/mietoa/
 https://melopee.github.io/mietoa/dic.html
 
-## the signature description of the words poq, pai, fa, dua, leo, mia, duatua, kuoi, jeq, jia, jipa, jie, fui, soq, meakuq, ca, jeo, cua, koe
+## A list of predicate frames
 https://github.com/acotis/serial-predicate-engine/blob/master/code/dict/frame-list.txt
 
 
