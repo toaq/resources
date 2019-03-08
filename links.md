@@ -12,6 +12,8 @@ This is a comment!
 
 [The official grammar](http://toaq.org/parser/toaqlanguage.js.peg)
 
+[Autohotkeys script](http://www.toaq.org/#autohotkey)
+
 
 ## Community
 
@@ -56,6 +58,8 @@ This is a comment!
 ## Hoemai's links
 
 [A Toaq interactive keyboard](http://toaq.org/letters/)
+
+[Autohotkeys script](http://www.toaq.org/#autohotkey)
 
 [The Blog](https://toaqlanguage.wordpress.com/)
 
