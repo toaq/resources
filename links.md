@@ -96,7 +96,7 @@ This is a comment!
 
 [And its grammar](https://github.com/eaburns/toaq/blob/master/ast/toaq.peg)
 
-## Uncategorised thoughts
+### Uncategorised thoughts
 
 <!---
 Line breaks!
