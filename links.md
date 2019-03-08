@@ -38,14 +38,6 @@ https://www.memrise.com/course/1974691/toaq-simple-predicates-2018-06-03/
 
 # Individuals
 
-## Cobbleblox' links (who are you? : )
-
-### Serial predicates
-https://docs.google.com/document/d/1xgt7dPGWSBHx7LTQzl_JqMrti-hgmk1zVA_gCY9TPfM/edit
-
-### toakue (what is this?)
-https://docs.google.com/document/d/1mIxenRl8z7VLHcfbFfWRSCD9eC_t30N1kXJZc-ZYZJI/edit
-
 ## Fagri's links
 
 ### a true story on youtube
@@ -56,6 +48,12 @@ https://www.youtube.com/channel/UCWxCrnMhv-7s1Mp8tWc_K2A
 
 ### Sa Búai Hủohūa
 https://docs.google.com/document/d/1OZFWqeKOsLNayuwQXfVDPpIvtulL1gcPAibZwBH0Yg0/edit
+
+### Serial predicates
+https://docs.google.com/document/d/1xgt7dPGWSBHx7LTQzl_JqMrti-hgmk1zVA_gCY9TPfM/edit
+
+### toakue (what is this?)
+https://docs.google.com/document/d/1mIxenRl8z7VLHcfbFfWRSCD9eC_t30N1kXJZc-ZYZJI/edit
 
 
 ## Hoemai's links
