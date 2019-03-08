@@ -54,6 +54,8 @@ This is a comment!
 
 [A list of predicate frames](https://github.com/acotis/serial-predicate-engine/blob/master/code/dict/frame-list.txt)
 
+[An AutoKey script](https://github.com/acotis/autokey-toaq-tones)
+
 
 ## Hoemai's links
 
