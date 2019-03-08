@@ -38,15 +38,6 @@ https://www.memrise.com/course/1974691/toaq-simple-predicates-2018-06-03/
 
 # Individuals
 
-## banzbapren's links (who are you? : )
-
-### words I don't get
-https://docs.google.com/document/d/1NNHLIZ_vg9YpMCBN4hVgkDrYSDeq9AKePc4aWI-TuPg/edit
-
-### another list of links XD
-https://docs.google.com/document/d/1g3AhZm7V-JPS_717QD8nQhLx_cVqGRJhxpyv28N_AMU/edit
-
-
 ## Cobbleblox' links (who are you? : )
 
 ### Serial predicates
@@ -163,6 +154,13 @@ https://drive.google.com/drive/u/0/folders/1gkjH19CrtoXIqRFh9ye3n1akMu2ojbMu
 
 ### a collection of short stories, with such classics as the grasshopper and the octopus.
 https://drive.google.com/drive/u/0/folders/1mlRRVxx7onT6elHQDPHwHLH_yUDrF2qy
+
+### words I don't get
+https://docs.google.com/document/d/1NNHLIZ_vg9YpMCBN4hVgkDrYSDeq9AKePc4aWI-TuPg/edit
+
+### another list of links XD
+https://docs.google.com/document/d/1g3AhZm7V-JPS_717QD8nQhLx_cVqGRJhxpyv28N_AMU/edit
+
 
 ## Xeizzeth's links
 
