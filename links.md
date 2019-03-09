@@ -10,7 +10,7 @@ This is a comment!
 
 [The official dictionary](http://www.toaq.org/dictionary/)
 
-[The official grammar](http://toaq.org/parser/toaqlanguage.js.peg)
+[The official grammar of the Toaq PEG parser](http://toaq.org/parser/toaqlanguage.js.peg)
 
 [Autohotkeys script](http://www.toaq.org/#autohotkey)
 
@@ -148,6 +148,9 @@ http://itsapad.appspot.com/1ka8kmo7ta8
 ## unknown
 
 [A memrise deck, learn how to use the tones](https://www.memrise.com/course/1573407/toaq-language/)
+
+[An etherpad diccionary](https://etherpad.net/p/ONbE3qplAJ) seaqtaq's?, found in 
+[Another list of links XD](https://docs.google.com/document/d/1g3AhZm7V-JPS_717QD8nQhLx_cVqGRJhxpyv28N_AMU/edit)
 
 # Frequency lists
 
