@@ -1,29 +1,23 @@
 # Toaq Resources
 
-Toaq learning resources. Links, tutorials, and TODOs.
+This repository contains a small about of learning resources – links, tutorials, explanations, and texts. You're welcome to contribute.
 
-This is a collection of resources for the Toaq language. Every link mentioned in
-the Discord chat, explanations for common concepts, usage guides for the bots,
-community guidelines, advice, and TODOs.
+## Index
 
-The point here is to have an open place to discuss how to make Toaq easy to
-learn, so feel free to clone and modify the repository, and add whatever you
-think can help. We are very open and permissive to additions.
+* *`links.md`* is perhaps the most important file. It contains links to a wide range of resources.
+* *`archive.md`* houses some of the more significant exchanges on the Discord chat.
+* *`jargon.md`* is a lexicon of the more confusing acronyms and terminology.
+* *`gotchas.md`* explains misconceptions that one might have about Toaq.
+* *`names.csv`* lists the various names of some Toaqists which might confuse an outsider sometimes.
+* *`.Xmodmap`* is a handy Xmodmap file for inputting tones on Linux.
 
-On the Bots.
+## On the Bots
 
-There is a #test-2 channel, we suggest you do any experiments with the
-bots there. So as to not crowd the other channels.
+There is a #test-2 channel – we suggest you do any experiments with the
+bots there so as to not crowd the other channels.
 
 There are 4 bots:
-    nuogai
-    Septapus
-    SOA
-    Telegram
-
-Nuogai is uakci's child.
-You can see its help with %help
-
-SOA is solpahi's child.
-You can see its help with !help
-
+- nuogai, operated by uakci. See its help with `%help`;
+- SOA, operated by Hoemāi. See its help with `!help`;
+- Septapus (general utility);
+- Telegram (bridge).
