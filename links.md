@@ -84,6 +84,8 @@ This is a comment!
 
 [Errata for the Toaq documentation](https://etherpad.net/p/toaq-errata-1)
 
+[Ilmen's Toaq–Toaq Etherpad dictionary](https://etherpad.net/p/ONbE3qplAJ)
+ 
 
 ## Lynn's links
 
@@ -116,7 +118,7 @@ http://itsapad.appspot.com/1ka8kmo7ta8
 
 [Nuigui (Smallcorn) – Tiny Toaq serial predicate engine](https://github.com/ciuak/nuigui)
 
-[Uakci's wiki. With mı Nủogāı, vietoaq, experimental features, and more](https://uakci.pl/wiki/)
+[Uakci's wiki, with help for mı Nủogāı, vietoaq, and an experimental features catalogue, and more](https://uakci.pl/wiki/)
 
 [The community dictionary](https://uakci.pl/toadua/)
 
@@ -124,14 +126,13 @@ http://itsapad.appspot.com/1ka8kmo7ta8
 
 ## Seaqtaq's links
 
+[Seaqtaq's list of links](https://docs.google.com/document/d/1g3AhZm7V-JPS_717QD8nQhLx_cVqGRJhxpyv28N_AMU/edit)
+
 [The catalogue, partially devoured to make this one XD](https://drive.google.com/drive/u/0/folders/1gkjH19CrtoXIqRFh9ye3n1akMu2ojbMu)
 
 [A collection of short stories, with such classics as the grasshopper and the octopus.](https://drive.google.com/drive/u/0/folders/1mlRRVxx7onT6elHQDPHwHLH_yUDrF2qy)
 
-[Words I don't get](https://docs.google.com/document/d/1NNHLIZ_vg9YpMCBN4hVgkDrYSDeq9AKePc4aWI-TuPg/edit)
-
-[Another list of links XD](https://docs.google.com/document/d/1g3AhZm7V-JPS_717QD8nQhLx_cVqGRJhxpyv28N_AMU/edit)
-
+[“Words I don't get”](https://docs.google.com/document/d/1NNHLIZ_vg9YpMCBN4hVgkDrYSDeq9AKePc4aWI-TuPg/edit)
 
 ## Xeizzeth's links
 
@@ -148,9 +149,6 @@ http://itsapad.appspot.com/1ka8kmo7ta8
 ## unknown
 
 [A memrise deck, learn how to use the tones](https://www.memrise.com/course/1573407/toaq-language/)
-
-[An etherpad diccionary](https://etherpad.net/p/ONbE3qplAJ) seaqtaq's?, found in 
-[Another list of links XD](https://docs.google.com/document/d/1g3AhZm7V-JPS_717QD8nQhLx_cVqGRJhxpyv28N_AMU/edit)
 
 # Frequency lists
 
