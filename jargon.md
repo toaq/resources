@@ -1,26 +1,33 @@
 UoD, UofD:
+
     Universe of Discourse.
     The set of things under discussion at a given time.
 
 DWIM:
+
     Do What I Mean
     Interpret what I said with the intention I had.
     "To be free to be interpreted in the intended way."
 
 contentive:
+
     That carries content – predicate, i.e., root word or compound word.
 
 JEO-frame Equivalence:
+
     See [archive](https://github.com/toaq/resources/blob/master/archive.md), On frames and signatures.
 
 predicate:
+
     Verb – a word that relates a number of arguments.
 
 grammar:
+
     The rules that parsers use to deconstruct the sentences.
     Different parsers use slightly different grammars, which might result in different parses (although wider discrepancies can be found in semantics).
 
 signature notation:
+
     c, 0, 1, … is a notation used to describe the "signature" of a predicate.
     It tells you what kind of thing each place should be filled with, and, more importantly, how it behaves in a serial predicate.
 
