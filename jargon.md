@@ -21,6 +21,17 @@ predicate:
 
     Verb – a word that relates a number of arguments.
 
+Proposition:
+
+
+property:
+    For example, the sentence "chu?q ja do/ ma/oja-"
+    is like a template statement, with a single hole for a noun.
+    Equivalent to the lambda expression:
+        lambda x: x eats the banana
+
+    
+
 grammar:
 
     The rules that parsers use to deconstruct the sentences.
