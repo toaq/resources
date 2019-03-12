@@ -3,32 +3,46 @@ UoD, UofD:
     Universe of Discourse.
     The set of things under discussion at a given time.
 
+
 DWIM:
 
     Do What I Mean
     Interpret what I said with the intention I had.
     "To be free to be interpreted in the intended way."
 
+
+Empty slot:
+
+    An argument to a predicate that is left empty.
+    "ma?i ji/", the slot for the beloved is left empty.
+
+
 contentive:
 
     That carries content – predicate, i.e., root word or compound word.
 
+
 JEO-frame Equivalence:
 
     See [archive](https://github.com/toaq/resources/blob/master/archive.md), On frames and signatures.
+
 
 frame:
 
     A family of words, all having the same signature.  
     Each frame is named after a familiar word in the frame.
 
-See [a list of predicate frames](https://github.com/acotis/serial-predicate-engine/blob/master/code/dict/frame-list.txt)
+See [a list of predicate frames](https://github.com/acotis/serial-predicate-engine/blob/master/code/dict/frame-list.txt) for a list of all major frames.
+
 
 predicate:
 
     Verb – a word that relates a number of arguments.
 
+
 Proposition:
+
+    A statement without ja (the lambda quantifier)
 
 
 property:
@@ -39,12 +53,24 @@ property:
     Equivalent to the lambda expression:  
         lambda x: x eats the banana  
 
-    
 
 grammar:
 
     The rules that parsers use to deconstruct the sentences.
     Different parsers use slightly different grammars, which might result in different parses (although wider discrepancies can be found in semantics).
+
+
+(The) Lambda quantifier:
+
+    JA. It identifies properties and relations
+
+
+Serialization:
+    
+    The rules that allow you to move predicates to the head of a statement.
+
+See [Serial predicates](https://docs.google.com/document/d/1xgt7dPGWSBHx7LTQzl_JqMrti-hgmk1zVA_gCY9TPfM/edit)
+
 
 signature notation:
 
@@ -58,3 +84,9 @@ signature notation:
 
     For example, we can describe a predicate like dua as (c 0) –
     the first place is concrete, the second place is a predication.
+
+
+Template slots:
+
+    Slots in a property, identified by ja (the lambda quantifier)
+
