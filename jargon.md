@@ -25,10 +25,12 @@ Proposition:
 
 
 property:
-    For example, the sentence "chu?q ja do/ ma/oja-"
-    is like a template statement, with a single hole for a noun.
-    Equivalent to the lambda expression:
-        lambda x: x eats the banana
+
+    from [Serial Predicates](https://docs.google.com/document/d/1xgt7dPGWSBHx7LTQzl_JqMrti-hgmk1zVA_gCY9TPfM/edit)  
+    For example, the sentence "chu?q ja do/ ma/oja-"  
+    is like a template statement, with a single hole for a noun.  
+    Equivalent to the lambda expression:  
+        lambda x: x eats the banana  
 
     
 
