@@ -17,6 +17,13 @@ JEO-frame Equivalence:
 
     See [archive](https://github.com/toaq/resources/blob/master/archive.md), On frames and signatures.
 
+frame:
+
+    A family of words, all having the same signature.  
+    Each frame is named after a familiar word in the frame.
+
+See [a list of predicate frames](https://github.com/acotis/serial-predicate-engine/blob/master/code/dict/frame-list.txt)
+
 predicate:
 
     Verb – a word that relates a number of arguments.
