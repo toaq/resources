@@ -1,4 +1,4 @@
-! Tone mappings by uakci
+! tone mappings by uakci
 keycode 10 = 1 exclam 1 exclam dead_macron U2081 dead_macron 
 keycode 11 = 2 at 2 at dead_acute U2082 dead_acute 
 keycode 12 = 3 numbersign 3 numbersign dead_caron U2083 dead_caron 
