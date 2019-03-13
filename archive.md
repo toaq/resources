@@ -100,3 +100,22 @@ mı Hỏaqgīo
 > slot)
 > 
 > Math stuff here, don't look if you're already feeling overwhelmed :smiley: : There's also the special case of the JEO frame, which has the signature [(0) (c 1)] and the special requirement that, for a predicate P to be in the JEO frame, it must satisfy the equivalence P(x, y) = P(jeo(x, y)).  We also have the MAO frame, which is defined as predicates which have a signature of [(0) (c 1)] but which don't satisfy that equality, which is named the "JEO-frame Equivalence"
+
+## On ternary predicates
+
+### 2019-03-13, #general
+
+mi Hỏaqgīo
+> % cutaq
+
+nuogaiBOT
+> 1–1/1 — cutaq + — <▯1, ▯2> are such that <x1, x2, x1> satisfy ternary relation ▯/3; ▯ does/is ▯/3 to themselves.
+
+mi Hỏaqgīo
+> Here's one that was added recently
+>
+> It's the first one I know of though
+>
+> 2-ary properties are useful for words like mia (___ satisfies property ___ with many things) and jeq (___ and ___ satisfy property ___ with the same thing)
+> 3-ary properties aren't useful for much, as far as we've discovered
+
