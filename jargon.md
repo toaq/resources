@@ -1,3 +1,8 @@
+Abstraction:
+    
+    A proposition, property, relation, etc. 
+    (Where "etc" means it also includes a 3-ary properties, 4-ary properties, 5-ary properties, and so on)
+    
 UoD, UofD:
 
     Universe of Discourse.
