@@ -119,3 +119,36 @@ mi Hỏaqgīo
 > 2-ary properties are useful for words like mia (___ satisfies property ___ with many things) and jeq (___ and ___ satisfy property ___ with the same thing)
 > 3-ary properties aren't useful for much, as far as we've discovered
 
+
+## On the low tone
+
+### 2019-03-13, #general
+mi Hỏaqgīo
+> Here's how :t6: works:
+> Both :t6: and :t7: serve to create adverbials. An adverbial is a part of a sentence that makes a claim about the sentence itself (not its text, but its content).
+>
+> Everything in Toaq is done with predicates, and adverbials are no different. Ultimately an adverbial always does its thing by taking the entire Toaq sentence, pretending is has a :t5: tone (that generates propositions) and sticking it into the first place of a predicate.
+>
+> For example:
+>
+> "Shie jí rào kôi hó"
+>
+> Here, the rao with the :t6: grabs the entire rest of the sentence, throws it into a :t5: clause, then passes it as the x1 place to the predicate rao.  :t6: also has the effect of taking the following noun and passing it to the predicate as the x2 place.
+>
+> Thus the sentence is equivalent to:
+>
+> "Rao (shîe jí na) kôi hó"
+>
+> With the originally top-level claim in parentheses
+>
+> It means "I am awake while he/she is walking"
+
+## On the necessity of the tones
+
+### 2019-03-13, #general
+mi Hỏaqgīo
+> :t6: and :t7: can be excluded without too much difficulty
+>
+> :t3: might be possible to get rid of, but it would take some work to prove that. It doesn't just expand to something else like those other two tones do
+>
+> :t1:, :t2:, :t4:, :t5:, and :t8: are all 100% necessary
