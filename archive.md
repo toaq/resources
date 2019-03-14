@@ -152,3 +152,26 @@ mi Hỏaqgīo
 > :t3: might be possible to get rid of, but it would take some work to prove that. It doesn't just expand to something else like those other two tones do
 >
 > :t1:, :t2:, :t4:, :t5:, and :t8: are all 100% necessary
+
+## On implications
+
+### 2019-03-14, #general
+
+mi seaqtaq
+> Those are lojban words
+> rinka=ca
+> nibli=lica
+> krinu≈mu kui (edited)
+
+mi brunofrancosalamin
+> thanks!
+
+mi seaqtaq
+> jum [vietoaq]
+
+[...]
+
+mi seaqtaq
+> oh woops lica was supposed to be luca
+> i always mix those up
+
