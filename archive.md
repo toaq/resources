@@ -175,3 +175,23 @@ mi seaqtaq
 > oh woops lica was supposed to be luca
 > i always mix those up
 
+## On ordinal compounds
+
+### 2019-03-14
+
+
+mi Hỏemāı
+> I have written a possible lesson 2.
+>
+> Also I need to add the ordinal compounds to the official dictionary.
+
+You make ordinal compounds by concatenating the number name with the (ko) predicate:
+
+> shiko
+>
+> guko
+>
+> saqko
+>
+> ...
+
