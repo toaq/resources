@@ -159,8 +159,11 @@ mi Hỏaqgīo
 
 mi seaqtaq
 > Those are lojban words
+>
 > rinka=ca
+>
 > nibli=lica
+>
 > krinu≈mu kui (edited)
 
 mi brunofrancosalamin
@@ -177,7 +180,7 @@ mi seaqtaq
 
 ## On ordinal compounds
 
-### 2019-03-14
+### 2019-03-14, #general
 
 
 mi Hỏemāı
@@ -194,4 +197,130 @@ You make ordinal compounds by concatenating the number name with the (ko) predic
 > saqko
 >
 > ...
+
+## On the lambda quantifier (ja)
+
+### 2019-03-16, #general
+
+mi Heutijeqtua
+> jajajaja
+
+mi 🍵
+> hahahaha*
+>
+> we’re in Toaqistan, sir
+
+mi Heutijeqtua
+> sorry, my spanish showed XD
+
+mi 🍵
+> you don’t necessarily want to laugh with the lambda variable quantifier
+>
+> unless it’s ja dó ja dó ja dó ja dó
+
+mi Heutijeqtua
+> would that mean XXXX?
+
+mi 🍵
+> it would
+>
+> kind of
+>
+
+mi Heutijeqtua
+> so the toaq sex shop would be ja do ja do ja do?
+
+mi 🍵
+> although each of the X’s would be distinct
+>
+and the whole wouldn’t really mean anything without context
+> oh no
+>
+> the name for the letter ‘X’ is by no means ‘ja dó’
+>
+
+mi Heutijeqtua
+> O.O, I didn't realize that each ja do would represent a different variable
+
+mi 🍵
+> it always does
+
+mi Heutijeqtua
+> yeah, I tried to make a joke XD guess it blowed up in my face
+>
+> so, how do you differentiate between their values? by position?
+
+mi 🍵
+> ?cheon subjir lit seam ja pob ja pob
+>
+
+mi nuogaiBOT
+> chẻo súqjī lî sẻaq ja póq ja póq
+
+mi 🍵
+> = we are reciprocal in relation λxy. x has sex with y
+>
+> = we have sex with each other
+>
+> ?= cheon seam subjir
+>
+
+mi nuogaiBOT
+> = chẻo sẻaq súqjī
+
+mi 🍵
+> ja binds variables
+>
+
+mi Heutijeqtua
+> oooh, I see! and the variables are predicates?
+>
+> like poq and do?
+>
+
+mi 🍵
+> no
+>
+> I mean, yes
+>
+> but poq isn’t a variable predicate
+>
+> if you say ja póq, then poq won’t refer to that
+>
+> but ja dó will make do refer to the lambda variable
+>
+
+mi Heutijeqtua
+> oh, its the lambda calculus
+>
+> ok, the first ja means the x, the second ja means the y
+>
+> ja
+>
+> I don't understand what ja do/ refers to
+>
+
+mi 🍵
+> do doesn’t mean anything until it’s bound by a quantifier
+>
+
+mi Hỏemāı
+> %miu lẻo jí lî nủo ja dó
+>
+
+mi nuogaiBOT
+> (lẻo {jí [lî <nủo (ja dó)>]})
+>
+> [℩𝐽 : ji(𝐽)] leo(𝐽, {λ𝑋 nuo(𝑋)}).
+>
+
+mi 🍵
+> %miu lẻo jí lî nủo ja póq
+>
+
+mi nuogaiBOT
+> (lẻo {jí [lî <nủo (ja póq)>]})
+>
+> [℩𝐽 : ji(𝐽)] leo(𝐽, {[λ𝑃 : poq(𝑃)] nuo(𝑃)}).
+>
 
