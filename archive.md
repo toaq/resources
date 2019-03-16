@@ -324,3 +324,56 @@ mi nuogaiBOT
 > [℩𝐽 : ji(𝐽)] leo(𝐽, {[λ𝑃 : poq(𝑃)] nuo(𝑃)}).
 >
 
+## On Transitive and intransitive verbs
+### 2019-03-16, #general
+
+mi Heutijeqtua
+> why are there two different words for "gather", one transitive (tua tijeq) and the other intransitive?
+>
+> wait, I think I misunderstood the idea. is it the tua that makes tijeq transitive?
+>
+mi Hỏaqgīo
+> Intransitive is used like "The marbles all gathered together at the bottom of the bucket"
+>
+> Transitive is used as "I gathered together some firewood"
+>
+> The second kind has a place for a person making the things gather
+>
+> And yes, it's tua that makes it so
+>
+
+mi Heutijeqtua
+> I see, thanks!
+>
+> could you use the intransitive tijeq in a toaq sentence?
+>
+
+mi Hỏaqgīo
+> Sure!
+>
+> "Tijēq sa róai deo ní da"
+>
+> Would you like me to give the translation or do you want to work it out?
+>
+
+[...]
+
+mi seaqtaq
+> It would be better with sho tijeq
+>
+
+mi Hỏemāı
+> tıjēq only means "to be in the same place", not "to gather" (which would be sho tỉjēq). But also, note that there is a root for "gather" (kueq)
+>
+
+mi Hỏaqgīo
+> Oh
+>
+> Then let me try again
+>
+> "Kueq sa róai deo ní da."
+>
+> Also, bear in mind that kueq and deo both have a :t4:, i just can't type it
+>
+> The translation is: "Eight children gather here."
+>
