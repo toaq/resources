@@ -59,6 +59,10 @@ This is a comment!
 
 ## Hoemai's links
 
+[Toaq with Ease](http://toaq.org/TwE/)
+
+[The document for editing Toaq with Ease](https://docs.google.com/document/d/1DXPhnUXNREGbKbsHLr56QroBXcrdaruQRj2koriE1DU/edit?usp=sharing)
+
 [A Toaq interactive keyboard](http://toaq.org/letters/)
 
 [Autohotkeys script](http://www.toaq.org/#autohotkey)
