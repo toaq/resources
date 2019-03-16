@@ -233,6 +233,8 @@ mi 🍵
 > and the whole wouldn’t really mean anything without context
 >
 
+[...]
+
 mi Heutijeqtua
 > O.O, I didn't realize that each ja do would represent a different variable
 
