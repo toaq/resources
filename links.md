@@ -31,7 +31,7 @@ This is a comment!
 
 [Memrise course of simple predicates, 2018-06-03](https://www.memrise.com/course/1974691/toaq-simple-predicates-2018-06-03/)
 
-[Groupchat Organization etherpad](https://etherpad.net/p/choadeoq-1)
+[Voice Chat Organization, etherpad](https://etherpad.net/p/choadeoq-1)
 
 
 # Individuals
