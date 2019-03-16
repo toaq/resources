@@ -227,16 +227,10 @@ mi 🍵
 > kind of
 >
 
-mi Heutijeqtua
-> so the toaq sex shop would be ja do ja do ja do?
-
 mi 🍵
 > although each of the X’s would be distinct
 >
-and the whole wouldn’t really mean anything without context
-> oh no
->
-> the name for the letter ‘X’ is by no means ‘ja dó’
+> and the whole wouldn’t really mean anything without context
 >
 
 mi Heutijeqtua
@@ -244,9 +238,6 @@ mi Heutijeqtua
 
 mi 🍵
 > it always does
-
-mi Heutijeqtua
-> yeah, I tried to make a joke XD guess it blowed up in my face
 >
 > so, how do you differentiate between their values? by position?
 
