@@ -198,7 +198,7 @@ You make ordinal compounds by concatenating the number name with the (ko) predic
 >
 > ...
 
-## On the lambda quantifier (ja)
+## On laughter and the lambda quantifier (ja)
 
 ### 2019-03-16, #general
 

@@ -69,6 +69,8 @@ grammar:
 
     JA. It identifies properties and relations
 
+See [On laughter and the lambda quantifier, in the archive](https://github.com/toaq/resources/blob/master/archive.md)
+
 
 Serialization:
     
@@ -95,3 +97,6 @@ Template slots:
 
     Slots in a property, identified by ja (the lambda quantifier)
 
+Transitivity:
+
+See [On Transitive and intransitive verbs, in the archive](https://github.com/toaq/resources/blob/master/archive.md)
